@@ -1,0 +1,20 @@
+/*
+***********************************************************
+Nombre: Jorge Peña
+
+Plataforma: DFD, C++
+
+Programa: Suma, resta, multiplicación y división.
+
+Versión: 1.0
+
+Revisión: 0
+***********************************************************
+*/
+
+Datos de entrada:
+	- Dos números dados por el usuario.
+
+Datos de salida:
+	- Resultado de la suma, resta, multiplicación y
+	división.
